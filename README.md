@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @mohammad-azimi
-- 👀 I’m interested in AI, Software, Web Programming, Machine Learning, Deep Learning, Cycling, Game 
-- 🌱 I’m currently learning Web & AI
-- 💞️ I’m looking to collaborate on Project of web and AI
-- 📫 How to reach me mohammadazimi.com@gmail.com
-- 😄 Soft skill: Individual management, Effective communication skills, Teamwork, Trust Building, Time Management, Adaptability/Flexibility
-- ⚡ Fun fact: Is there really anything real in this world?
+- Hi, I’m Mohammad Azimi
+- Committed and detail-oriented Pupil, eager to work with the latest thechnologies, especially to collaborate and develop world changing solutions to modern world problems, interested in data analysis using cutting-edge machine learning algorithms and artificial     
+  intelligence.
+- I’m currently learning Web & Artificial Intelligence
+- I’m looking to collaborate on Project of web and Artificial Intelligence
+- How to reach me mohammadazimi.com@gmail.com
+- Soft skill: Individual management, Effective communication skills, Teamwork, Trust Building, Time Management, Adaptability/Flexibility
+- Fun fact: Is there really anything real in this world?
 
 <!---
 M0hammadAzimi/M0hammadAzimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - Hi, I’m Mohammad Azimi
-- Committed and detail-oriented pupil eager to work with the latest technologies, especially in collaborating and developing world-changing solutions to modern problems. Passionate about data analysis using cutting-edge machine learning algorithms and artificial intelligence.
+- Committed and detail-oriented engineer eager to work with the latest technologies, especially in collaborating and developing world-changing solutions to modern problems. Passionate about data analysis using cutting-edge machine learning algorithms and artificial intelligence.
 - I’m currently learning Web & Artificial Intelligence
 - I’m looking to collaborate on Project of web and Artificial Intelligence
 - How to reach me mohammadazimi.com@gmail.com

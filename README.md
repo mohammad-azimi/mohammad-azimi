@@ -78,8 +78,11 @@ As a lifelong learner, I stay up to date through self-study, online courses, and
 
 ###  Contact Me
 
-📍 **Location:** St Petersburg, St Petersburg City, Russia  
-📧 **Email:** *mohammadazimi1011@gmail.com*
+📍 **Location:** St Petersburg, St Petersburg City, Russia 
+
+🏫 **University:** Peter the Great St. Petersburg Polytechnic University  
+
+📧 **Email:** *mohammadazimi1011@gmail.com*<br><br>
 
 <p align="center">
   <b>⭐ If you like my work, consider starring my repositories!</b>

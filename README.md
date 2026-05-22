@@ -59,15 +59,6 @@ As a lifelong learner, I stay up to date through self-study, online courses, and
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-azimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-azimi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-</p>
-
----
-
 ###  Fun Section
 
 <p align="center">

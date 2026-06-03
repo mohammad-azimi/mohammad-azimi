@@ -1,100 +1,166 @@
-<!-- GitHub Profile README | Mohammad Azimi -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-azimi&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+# Hi, I'm Mohammad Azimi 👋
+
+### Computer Engineering Graduate · Enrolled in the Master's Program in Intelligent Systems
+
+### Reinforcement Learning · Artificial Intelligence · Software Development
+
+<p>
+  Building practical digital products and developing my academic path in
+  <strong>Intelligent Systems</strong>, with a primary focus on
+  <strong>Reinforcement Learning</strong> and an additional interest in
+  <strong>Computer Vision</strong>.
 </p>
 
-<h1 align="center">Hi, I'm Mohammad Azimi 👋</h1>
+<br />
 
-<h3 align="center"> Incoming Master's Student in Intelligent Systems • AI, Computer Vision & Reinforcement Learning Enthusiast </h3> 
+<a href="https://mohammad-azimi.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+</a>
+<a href="https://www.linkedin.com/in/-mohammad--azimi-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mohammadazimi1011@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<p align="center"> Preparing to study Intelligent Systems at Peter the Great St. Petersburg Polytechnic University while building practical applications and exploring machine learning, computer vision, and reinforcement learning. </p>
+<br />
+<br />
 
-<p align="center">
-  <a href="https://mohammad-azimi.github.io/Habit-Tracker/">
-    <img src="https://img.shields.io/badge/Live_Demo-Habit_Tracker-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Habit Tracker Live Demo" />
-  </a>
-  <a href="https://www.linkedin.com/in/-mohammad--azimi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mohammad-azimi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1WgU5H_eIHr_ByNJQggg0vX3kqhkv3gBo/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View-333333?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mohammad-azimi&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+## About Me
+
+* 🎓 Computer Engineering graduate in **Computer Software Engineering** from **Zand-E-Shiraz Institute**
+* 🎓 Enrolled in the Master's program in **Intelligent Systems** at **Peter the Great St. Petersburg Polytechnic University**
+* 🧠 Primarily focused on **Reinforcement Learning**, with interests in **Artificial Intelligence** and **Computer Vision**
+* 🔬 Published research related to **Artificial Intelligence**, **Computer Vision** and early forest-fire detection using UAVs
+* 🌍 Languages: **Persian**, **English** and **Russian**
+* 💻 Building practical applications while developing research-oriented AI skills
+
+---
+
+## Current Focus
+
+```text
+Exploring Reinforcement Learning and intelligent agent decision-making
+Preparing for Master's studies in Intelligent Systems
+Building practical software products and AI-oriented projects
+Developing a stronger research foundation in Artificial Intelligence
+```
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| --- | --- | --- | --- |
-| **Habit Tracker** | A productivity web application for tracking habits, reviewing progress, cloud syncing data, and receiving reminders. | React, Vite, Express, PostgreSQL, Prisma, PWA | [Repository](https://github.com/mohammad-azimi/Habit-Tracker) · [Live Demo](https://mohammad-azimi.github.io/Habit-Tracker/) |
-| **Portfolio Website** | My personal portfolio website presenting my background, skills, experience, and projects. | HTML, CSS, JavaScript | [Repository](https://github.com/mohammad-azimi/mohammad-azimi.github.io) · [Website](https://mohammad-azimi.github.io/) |
-
-<!-- Add a screenshot or short GIF of Habit Tracker here after uploading it to your repository. -->
+| Project               | Description                                                                                                                                                     | Tech Stack                                                           | Links                                                                                                                        |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Habit Tracker**     | A full-stack habit tracking application with daily check-ins, progress analytics, cloud-backed data, PWA support and push reminder functionality.               | React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, PWA | [Repository](https://github.com/mohammad-azimi/Habit-Tracker) · [Live Demo](https://mohammad-azimi.github.io/Habit-Tracker/) |
+| **Portfolio Website** | A cinematic AI-focused portfolio presenting my journey in Intelligent Systems, Reinforcement Learning, education, research, experience and product development. | React, Vite, Tailwind CSS, GSAP, Formspree, GitHub Actions           | [Repository](https://github.com/mohammad-azimi/mohammad-azimi.github.io) · [Website](https://mohammad-azimi.github.io/)      |
 
 ---
 
-## About Me 
-- 🎓 Preparing to pursue a Master's degree in **Intelligent Systems** at **Peter the Great St. Petersburg Polytechnic University**
-- 🤖 Interested in artificial intelligence, machine learning, computer vision, data analysis, and reinforcement learning
-- 🚀 Currently building practical applications and machine learning projects
-- 🧠 Planning to learn reinforcement learning more deeply and develop practical projects in this field
+## Research & Publication
+
+### Early Detection of Forest Fires Using Unmanned Aerial Vehicles and Artificial Intelligence
+
+Published conference paper exploring the use of unmanned aerial vehicles, artificial intelligence and computer vision for early smoke and forest-fire detection.
+
+**Topics:** Artificial Intelligence · Computer Vision · UAV · Forest Fire Detection · Crisis Management
+**Publication Language:** Persian
+
+[View Publication](https://en.civilica.com/doc/1650184/)
 
 ---
 
 ## Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-171717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-171717?style=for-the-badge&logo=csharp&logoColor=512BD4" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-171717?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+</p>
+
+### Frontend & Product Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-171717?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GSAP-171717?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+</p>
+
+### Backend, Database & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-171717?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-171717?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-171717?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
+
+### AI & Data Direction
+
+<p>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-Primary_Focus-7C3AED?style=for-the-badge" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-6366F1?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Interested-2563EB?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-171717?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
 </p>
 
 ---
 
-## Current Focus 
-```text
-Preparing for my Master's studies in Intelligent Systems
-Building practical artificial intelligence and computer vision projects Learning reinforcement learning and planning future projects in this field
-Improving my programming and software development skills through real projects
-```
+## Education
+
+* **Master's Program in Intelligent Systems — Enrolled**
+  Peter the Great St. Petersburg Polytechnic University
+  `09.04.01_17 Intelligent Systems (International Educational Program)`
+  Full-time · English-taught · Program begins after Summer 2026
+
+* **Preparatory Course — Russian Language and Pre-University Program**
+  Peter the Great St. Petersburg Polytechnic University
+  Nov 2025 — Present
+  Coursework studied in Russian: Mathematics, Physics, Statistics & Probability, Informatics and Chemistry
+
+* **Bachelor of Computer Engineering — Computer Software Engineering**
+  Zand-E-Shiraz Institute
+  Sep 2020 — Aug 2024 · Grade: `18.35 / 20`
 
 ---
 
-## Contact
+## Connect With Me
 
-<p align="center">
-  <a href="mailto:mohammadazimi1011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p>
+  <a href="https://mohammad-azimi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-mohammad--azimi.github.io-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/-mohammad--azimi-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad_Azimi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohammadazimi1011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammadazimi1011%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <b>⭐ Explore my projects and consider starring a repository if you find it useful.</b>
-</p>
+---
+
+<div align="center">
+
+⭐ Explore my repositories and visit my portfolio to learn more about my work and academic journey.
+
+</div>
